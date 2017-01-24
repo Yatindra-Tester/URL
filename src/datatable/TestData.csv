@@ -1,0 +1,13 @@
+url,working_status,pageload_time_millisecond
+http://management.diggit.com/login,URL Working,8994
+http://analytics.diggit.com,Failed,Failed
+http://opstats.diggit.com,Failed,Failed
+http://analytics.diggit.com/#/dashboard,Failed,Failed
+http://www.omdbapi.com/,Failed,Failed
+https://torrentz2.eu,Failed,Failed
+https://bitsnoop.com,Failed,Failed
+https://bitsnoop.com/api/latest_tz.php?t=all,Failed,Failed
+http://dx-torrentez.com,Failed,Failed
+http://export.diggit.com/#/jobs,Failed,Failed
+http://imdb.com,Failed,Failed
+http://google.com,Failed,Failed
